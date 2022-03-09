@@ -1,0 +1,1 @@
+# coloque somente arquivos .astah
